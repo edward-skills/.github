@@ -6,9 +6,11 @@ Bring your content, brand information and assets. Choose the Skill for your task
 
 English · [简体中文](https://github.com/edward-skills/.github/blob/main/profile/README.zh-CN.md)
 
-[![Website design and build: actual SaaS example](https://raw.githubusercontent.com/edward-skills/website-design-build/main/docs/images/gather-home.png)](https://github.com/edward-skills/website-design-build)
+[![Edward Skills overview: Brand and Copy, Visual Production, Avatar and IP, Websites, Presentations, SEO and Growth](https://raw.githubusercontent.com/edward-skills/.github/main/assets/edward-skills-overview.png)](https://github.com/edward-skills#choose-a-skill)
 
-*An actual website produced with Website Design Build. The example is in Chinese; request the output language you need. Each repository contains its own visual examples and instructions.*
+*An illustrated overview of the six Skill areas. Choose a task below for its repository, examples and setup instructions.*
+
+*六类能力总览示意：品牌内容、视觉制作、Avatar/IP、网站、演示与增长。下表提供各自的仓库与安装入口。*
 
 ## Choose a Skill
 

@@ -6,7 +6,9 @@
 
 [English](https://github.com/edward-skills) · 简体中文
 
-[![网站设计与搭建：实际 SaaS 案例](https://raw.githubusercontent.com/edward-skills/website-design-build/main/docs/images/gather-home.png)](https://github.com/edward-skills/website-design-build)
+[![Edward Skills 六类能力总览：品牌内容、视觉制作、Avatar/IP、网站、演示与 SEO 增长](https://raw.githubusercontent.com/edward-skills/.github/main/assets/edward-skills-overview.png)](https://github.com/edward-skills#choose-a-skill)
+
+*六类能力总览示意图；按下表进入对应 Skill，查看案例与安装方法。*
 
 ## 按任务选择
 
