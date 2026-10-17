@@ -6,7 +6,7 @@
 
 [English](https://github.com/edward-skills) · 简体中文
 
-[![Edward Skills 六类能力总览：品牌内容、视觉制作、Avatar/IP、网站、演示与 SEO 增长](https://raw.githubusercontent.com/edward-skills/.github/main/assets/edward-skills-overview.png)](https://github.com/edward-skills#choose-a-skill)
+[![Edward Skills 六类能力总览：品牌内容、视觉制作、Avatar/IP、网站、演示与 SEO 增长](https://raw.githubusercontent.com/edward-skills/.github/main/assets/edward-skills-overview-v2.jpg)](https://github.com/edward-skills#choose-a-skill)
 
 *六类能力总览示意图；按下表进入对应 Skill，查看案例与安装方法。*
 
